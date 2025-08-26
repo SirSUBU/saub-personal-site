@@ -1,20 +1,19 @@
-# 🧠 Saubdiel Avalos Personal Site
+# 🧠 Test website
 
-Welcome to the repository for my personal website! This site serves as a digital portfolio to showcase my professional journey, skills, and future projects.
+Welcome to the repository for my first websire! This site serves as a test digital portfolio to showcase my knowledge of html and css!
 
-> **Note:** The website is currently under development and will be published soon. Stay tuned for updates!
+> **Note:** The website is no longer updating and a new project has been started on a different repository.
 
 ---
 
 ## 🚀 About the Project
 
-This personal website is designed to highlight my professional experience and will soon include personal projects and other relevant content. The site is curretly built with native html,css, and node.j; I will soon be transitioning over to React to ensure a dynamic and responsive user experience.
+The site is curretly built with native html,css, and node.j; I will soon be transitioning over to React to ensure a dynamic and responsive user experience.
 
 ---
 
 ## 🛠️ Building/Built With
 
-- [React](https://reactjs.org/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -41,9 +40,6 @@ This project was initiated as part of:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ---
 
